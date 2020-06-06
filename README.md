@@ -1,0 +1,1 @@
+UCI course cs122b resources.
